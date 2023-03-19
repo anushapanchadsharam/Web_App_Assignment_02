@@ -1,0 +1,61 @@
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container{
+    text-align:center
+  }
+  
+  .box {
+    float: left;
+    width: auto;
+    padding: 30px;
+    position: relative;
+    left: 5%;
+
+  }
+  .box1{float: left;
+    width: auto;
+    padding: 30px;
+    position: relative;
+    left: 50%;
+
+  }
+  .boxinput{float: left;
+    width: auto;
+    padding: 30px;
+    position: relative;
+    left: 70%;
+
+  }
+  .box2{float: left;
+    width: auto;
+    padding: 30px;
+    position: relative;
+    left: 5%;
+    margin: 50px;
+
+  }
+  .ex1{
+    color: red;
+    position: relative;
+    left: 10%;
+
+  }
+  .ex2{
+    margin: 50px;
+     position: fixed;
+     left: 45%;
+
+
+  }
+  .card{
+
+    margin:5px;
+  }
+
+  div #DetailsDIV{
+    text-align:left;
+  }
+  
